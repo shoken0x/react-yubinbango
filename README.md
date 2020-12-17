@@ -1,5 +1,7 @@
 # React YubinBango
 
+[![npm version](https://badge.fury.io/js/react-yubinbango.svg)](https://badge.fury.io/js/react-yubinbango)
+
 ![react-yubinbango-demo](https://user-images.githubusercontent.com/475449/102423674-e7779c80-404c-11eb-9a84-fc8aa93ea0dc.gif)
 
 ## Installation
