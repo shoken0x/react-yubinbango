@@ -18,10 +18,15 @@ npm install --save react-yubinbango
 import YubinBango from 'react-yubinbango';
 ```
 
-### Component properties
+## Component properties
 
 TODO
 
-### Credits
+## For React Native
+
+[React Native YubinBango](https://github.com/shoken0x/react-native-yubinbango)  
+[![npm version](https://badge.fury.io/js/react-native-yubinbango.svg)](https://badge.fury.io/js/react-native-yubinbango)
+
+## Credits
 
 Based on data of [YubinBango-Core](https://github.com/yubinbango/yubinbango-core).
